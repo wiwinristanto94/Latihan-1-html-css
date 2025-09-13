@@ -1,3 +1,4 @@
-buatlah halaman sesuai desig.png 
+buatlah halaman sesuai design.png 
 font-family: Arial, sans-serif;
 background: #f0f0f0;
+
